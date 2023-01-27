@@ -18,7 +18,7 @@ namespace AppOne.Cmd
                 libBetaPrjTwoClass.AppendName(
                     libBetaPrjOneClass.AppendName(
                         libAlphaPrjTwoClass.AppendName(
-                            libAlphaPrjOneClass.AppendName("AppOne.Cmd:")))));
+                            libAlphaPrjOneClass.AppendName("(M1)AppOne.Cmd:")))));
         }
     }
 }
