@@ -1,0 +1,6 @@
+[submodule "LibAlpha"]
+	path = LibAlpha
+	url = https://github.com/ronh-iq/LibAlpha.git
+[submodule "LibBeta"]
+	path = LibBeta
+	url = https://github.com/ronh-iq/LibBeta.git
