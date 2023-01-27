@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\LibAlpha\src\LibAlpha.PrjOne\LibAlpha.PrjOne.csproj" />
+    <ProjectReference Include="..\..\LibAlpha\src\LibAlpha.PrjTwo\LibAlpha.PrjTwo.csproj" />
+    <ProjectReference Include="..\..\LibBeta\src\LibBeta.PrjOne\LibBeta.PrjOne.csproj" />
+    <ProjectReference Include="..\..\LibBeta\src\LibBeta.PrjTwo\LibBeta.PrjTwo.csproj" />
+  </ItemGroup>
+
 </Project>
